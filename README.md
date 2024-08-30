@@ -1,3 +1,7 @@
+The 0.001_Tue02Jul2024_12_42_nn.pth file is the trained neural network for inference. 
+
+The images and dtd folders provide extures for the tray and boxes in the simulator. 
+
 There are 3 main scripts:
 
 generate_train_data.py saves the maximum force in a given direction, robot state, and initial and final depth images and numpy arrays
@@ -14,3 +18,4 @@ bullet_func.py contains a number of functions that help set up the simulation en
 nn_safe_reg.py contains the pytorch model definition for the network
 
 mpc_test.py contains the mpc implementation
+
