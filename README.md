@@ -1,6 +1,6 @@
 The 0.001_Tue02Jul2024_12_42_nn.pth file is the trained neural network for inference. 
 
-The images and dtd folders provide extures for the tray and boxes in the simulator. 
+The images and dtd folders provide textures for the tray and boxes in the simulator. 
 
 There are 3 main scripts:
 
